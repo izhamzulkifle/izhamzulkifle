@@ -6,5 +6,5 @@ I'm Muhammad Izham Haiqal Bin Zulkifle, a passionate Computer Science enthusiast
 - Back-end : Python, Java, C++
 - Front-end : HTML, CSS, Javascript
 #
-- 🔭 I’m currently just completed the development phase of UniANPR: Smart University Technology
+- 🔭 I currently just have completed the development phase of UniANPR: Smart University Technology
 - 📫 How to reach me: izhamzulkifle.work@gmail.com
